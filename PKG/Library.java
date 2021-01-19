@@ -1300,7 +1300,7 @@ public class Library
         String gen;
         do
         {
-            PrintStr("\n1) Male   2) Female");
+            PrintStr("\nMale Or Female");
             PrintStr("\nClient Gender : ");
             gen = input.next();
         }
