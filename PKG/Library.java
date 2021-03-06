@@ -17,7 +17,7 @@ import java.time.format.DateTimeFormatter;
 /* main class */
 public class Library
 {
-    final static int WAITFACTOR = 3;
+    final static int WAITFACTOR = 4;
     
 
     /* Array of char for Print "EnterChoice" function */
